@@ -3,6 +3,8 @@
 **Modul Kamera:** Raspberry Pi Camera Module v2 (Sensor IMX219)  
 **Sistem Operasi:** Raspberry Pi OS (Bookworm/64-bit)
 ---
+![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2017/08/5mp-1080p-720p-video-ov5647-sensor-mini-camera-raspberry-pi-2-model-b-board-e42ec945459a5eb9fefd8d8271494e9c.jpg)
+---
 ## 1. Riwayat Kendala dan Solusi
 Selama proses instalasi, terdapat beberapa kendala teknis yang berhasil diatasi:
 
