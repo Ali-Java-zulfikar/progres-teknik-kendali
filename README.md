@@ -10,7 +10,7 @@ Selama proses instalasi, terdapat beberapa kendala teknis yang berhasil diatasi:
 
 | Masalah | Penyebab | Solusi |
 | :--- | :--- | :--- |
-| `bash: libcamera-hello: command not found` | Paket aplikasi kamera belum terinstal di sistem. | Menjalankan perintah `sudo apt install libcamera-apps` atau `rpicam-apps`. |
+| `bash: rpicam-hello: command not found` | Paket aplikasi kamera belum terinstal di sistem. | Menjalankan perintah `sudo apt install rpicam-apps`. |
 | File `/boot/config.txt` kosong/peringatan | Pada OS Bookworm, file konfigurasi utama berpindah lokasi. | Mengedit file di lokasi baru: `sudo nano /boot/firmware/config.txt`. |
 | Kamera tidak terdeteksi | Driver belum diaktifkan atau kabel longgar. | Memastikan `camera_auto_detect=1` aktif dan mengecek sisi kontak perak kabel pita. |
 
