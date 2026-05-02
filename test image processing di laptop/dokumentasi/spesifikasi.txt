@@ -1,0 +1,2 @@
+Device == LENOVO 82R3 IdeaPad 1 14ALC7 LENOVO_MT_82R3_BU_idea_FM_IdeaPad 1 14ALC7
+Operation System == Linux Mint 22.3 - Cinnamon 64-bit
